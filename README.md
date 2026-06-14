@@ -51,10 +51,6 @@ frontend_part/
 * Math Object (`Math.random()`, `Math.ceil()`)
 * Template Literals
 
-## 📸 Screenshot
-
-Add a screenshot of your project here.
-
 ## 🔮 Future Enhancements
 
 * Play Again button
